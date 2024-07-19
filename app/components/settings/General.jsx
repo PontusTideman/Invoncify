@@ -135,6 +135,9 @@ class General extends Component {
                 <option value="sr-CS">
                   {t('settings:fields:language:sr-CS', { lng: 'sr-CS' })}
                 </option>
+                <option value="sv-SE">
+                  {t('settings:fields:language:sv-SE', { lng: 'sv-SE' })}
+                </option>
                 <option value="nl">
                   {t('settings:fields:language:nl', { lng: 'nl' })}
                 </option>

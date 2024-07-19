@@ -1,0 +1,21 @@
+{
+  "noContact": "Du har inga kunder ännu",
+  "noInvoice": "Du har inte skapat någon faktura ännu",
+  "invoice": {
+    "saved": "Faktura skapad framgångsrikt",
+    "updated": "Faktura uppdaterad framgångsrikt",
+    "deleted": "Faktura raderad framgångsrikt"
+  },
+  "contact": {
+    "saved": "Kund sparad framgångsrikt",
+    "updated": "Kund uppdaterad framgångsrikt",
+    "deleted": "Kund raderad framgångsrikt"
+  },
+  "settings": {
+    "saved": "Alla inställningar har sparats framgångsrikt"
+  },
+  "login": {
+    "badSecret": "Jag kunde inte verifiera din identitet",
+    "success": "Jag kunde verifera dina identitet"
+  }
+}

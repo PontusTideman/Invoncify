@@ -66,7 +66,7 @@ export class DueDate extends Component {
                 checked={this.state.useCustom === true}
                 value="new"
               />
-              Custom Date
+              {t('form:fields:dueDate:customDate')}
             </label>
           </div>
           <div className="radio">
@@ -77,7 +77,7 @@ export class DueDate extends Component {
                 checked={this.state.useCustom === false}
                 value="select"
               />
-              Select Payment Term
+              {t('form:fields:dueDate:selectPaymentTerm')}
             </label>
           </div>
         </div>

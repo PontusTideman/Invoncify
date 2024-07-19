@@ -1,0 +1,87 @@
+{
+  "header": {
+    "contactEdit": "Redigera kund",
+    "new": "Skapa ny faktura",
+    "edit": "Redigera faktura",
+    "btns": {
+      "clear": "Avbryt",
+      "update": "Uppdatera",
+      "saveAndPreview": "Spara & förhandsgranska"
+    }
+  },
+  "settings": {
+    "name": "Fakturainställningar",
+    "hint": "Aktivera de obligatoriska fält som krävs vid skapande av faktura."
+  },
+  "fields": {
+    "items": {
+      "name": "Produkt/Tjänst",
+      "description": "Beskrivning",
+      "price": "Pris",
+      "quantity": "Antal",
+      "add": "Lägg till ny rad"
+    },
+    "paymentItems": {
+      "name": "Förskottsbetalning",
+      "description": "Beskrivning",
+      "value": "Värde",
+      "add": "Lägg till ny förskottsbetald vara/tjänst"
+    },
+    "recipient": {
+      "name": "Mottagare",
+      "select": "Välj",
+      "add": "Skapa ny"
+    },
+    "discount": {
+      "name": "Rabatt",
+      "percentage": "Procentuellt",
+      "flat": "Schablonbelopp"
+    },
+    "createAtDate": {
+      "name": "Fakturadag",
+      "placeHolder": "Välj ett eget datum"
+    },
+    "dueDate": {
+      "name": "Förfallodatum",
+      "placeHolder": "Välj ett eget datum",
+      "customDate": "Anpassat datum",
+      "selectPaymentTerm": "Välj betalningsvillkor",
+      "paymentTerms": {
+        "name": "Betalningsvillkor",
+        "net7": {
+          "label": "7 dagar",
+          "description": "Betalning senast 7 dagar efter fakturadatum"
+        },
+        "net10": {
+          "label": "10 dagar",
+          "description": "Betalning senast 10 dagar efter fakturadatum"
+        },
+        "net30": {
+          "label": "30 dagar",
+          "description": "Betalning senast 30 dagar efter fakturadatum"
+        },
+        "net60": {
+          "label": "60 dagar",
+          "description": "Betalning senast 60 dagar efter fakturadatum"
+        },
+        "net90": {
+          "label": "90 dagar",
+          "description": "Betalning senast 90 dagar efter fakturadatum"
+        }
+      }
+    },
+    "tax": {
+      "name": "Skatteuppgifter",
+      "id": "VAT-nummer",
+      "method": "Metod",
+      "reverse": "Omvänd moms"
+    },
+    "note": "Notering",
+    "currency": "Valuta",
+    "payment": {
+      "name": "Betalning",
+      "details": "Betaluppgifter",
+      "description": "Bankkonto, BG/PG eller annan relevant information"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "actions": {
+    "skip": "Skippa",
+    "next": "Nästa",
+    "start": "Börja fakturera"
+  },
+  "slides": {
+    "welcome": {
+      "heading": "👋  Hejsan!",
+      "description": "Thank you for giving me a try. Let me show you how to create stunning invoices with just 3 simple steps"
+    },
+    "create": {
+      "heading": "Steg 1. Skapa",
+      "description": "Invoncify has a flexible form interface. It keeps things simple by default but you can always turn on/off additional fields whenever you find necessary."
+    },
+    "preview": {
+      "heading": "Steg 2. Anpassa",
+      "description": "Invoncify comes with professional looking templates which can be customized further to match your brand style."
+    },
+    "encryption": {
+      "heading": "Step 3. Kryptering",
+      "description": "Invoncify comes with end-to-end encryption that protects your information and also gives you the ability to export or import your data safely."
+    },
+    "save": {
+      "heading": "Step 4. Spara",
+      "description": "Once happy with the invoice appearance your can save it as PDF for later use. Print it out or email it, let's use Invoncify to impress your clients now!"
+    },
+    "success": {
+      "heading": "Klart!!! ✋️",
+      "description": "There you have it, the 4 simple steps to create stunning invoices with Invoncify. Remember to update company profile and logo before actually using the invoice."
+    }
+  }
+}

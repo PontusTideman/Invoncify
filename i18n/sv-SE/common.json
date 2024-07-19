@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "fullname": "Ditt namn",
+    "company": "Företag",
+    "address": "Adress",
+    "email": "Mail",
+    "phone": "Telefonnummer",
+    "website": "Hemsida"
+  },
+  "save": "Spara",
+  "amount": "Moms",
+  "default": "Standard",
+  "saveAsDefault": "Spara som standard?",
+  "yes": "Ja",
+  "noThanks": "Nej, tack",
+  "details": "Detaljer"
+}

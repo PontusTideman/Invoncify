@@ -1,0 +1,85 @@
+{
+  "header": "Inställningar",
+  "tabs": {
+    "profile": "Profil",
+    "invoice": "Fakturor",
+    "general": "Generellt"
+  },
+  "fields": {
+    "logo": {
+      "name": "Logotyp",
+      "hint": "Godkända filformat PNG, JPG & SVG (Rekommenderas)"
+    },
+    "taxSettings": "Momsinställningar",
+    "paymentSettings": "Betalningsinställningar",
+    "template": "Mall",
+    "dateFormat": "Datumformat",
+    "pdfExportDir": "PDF exportmapp",
+    "pdfExportNamingFormat": "PDF export namnformat",
+    "requiredFields": "Obligatoriska fält",
+    "sound": "Ljud",
+    "trayIcon": "Meny ikon",
+    "sendMetricsAnon": "Skicka användardata anomnymt",
+    "openAtLogin": "Öppna vid inloggning",
+    "quitAtClose": "Avsluta vid stängning",
+    "mute": "Tyst",
+    "autoCheckUpdate": {
+      "name": "Kontrollera automatiskt efter uppdateringar",
+      "daily": "Varje dag (Rekommenderat)",
+      "weekly": "Varje vecka"
+    },
+    "currency": {
+      "placement": "Placering av valutasymbol",
+      "afterAmount": "Efter beloppet",
+      "beforeAmount": "Före beloppet",
+      "fraction": "Decimaler",
+      "separator": "Avskiljare",
+      "commaDot": "Komma & punkt",
+      "dotComma": "Punkt & komma",
+      "spaceDot": "Mellanslag & punkt"
+    },
+    "openPDFReader": "Öppna PDF efter export",
+    "language": {
+      "name": "Language",
+      "ar": "Arabic",
+      "cs": "Czech",
+      "da": "Danish",
+      "de": "German",
+      "el": "Greek",
+      "en": "English",
+      "es-ES": "Spanish",
+      "fr": "French",
+      "id": "Indonesian",
+      "it": "Italian",
+      "ja": "Japanese",
+      "ko": "Korean",
+      "lt": "Lithuanian",
+      "nl": "Dutch",
+      "ptBR": "Portuguese, Brazilian",
+      "ptPT": "Portuguese",
+      "ru": "Russian",
+      "sk": "Slovak",
+      "th": "Thai",
+      "tl": "Tagalog, Philippines",
+      "tr": "Turkish",
+      "ur-PK": "Urdu (Pakistan)",
+      "vi": "Vietnamese",
+      "zh-CN": "Chinese (Simplified)",
+      "zh-TW": "Chinese (Traditional)",
+      "sr": "Serbian (Cyrillic)",
+      "sr-CS": "Serbian (Latin)",
+      "sv-SE": "Swedish",
+      "ro": "Romanian"
+    },
+    "importExport": {
+      "name": "Importera/Exportera",
+      "import": "Importera",
+      "export": "Exportera",
+      "information": {
+        "label": "Viktigt:",
+        "info": "Vid export så är dina kontakter och fakturor krypterade, även krypteringsinställningarna kommer att exporteras"
+      }
+    },
+    "other": "Annat"
+  }
+}

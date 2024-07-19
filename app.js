@@ -11,6 +11,11 @@ const omit = require('lodash').omit;
 // eslint-disable-next-line import/no-unresolved
 const Sentry = require('@sentry/electron/main');
 
+// Hot reload
+try {
+	require('electron-reloader')(module);
+} catch {}
+
 // Electron Libs
 const { app, BrowserWindow, ipcMain } = require('electron');
 const { autoUpdater } = require('electron-updater');
